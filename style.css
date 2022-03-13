@@ -1,17 +1,32 @@
-#contact iframe
+
+
+.book
 {
-    width: 100%;
+  cursor: pointer;
 }
-.contact_1 h3
+
+.sport hr
 {
-    display: inline;
+  margin-bottom: 10px;
 }
-.contact_1 a
+
+.modal-content
 {
-    text-shadow: none;
+  margin-top: 100px;
 }
- 
-input
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
 {
-    background: grey
+    text-align: center
 }
+
+
+
